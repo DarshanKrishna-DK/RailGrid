@@ -1,4 +1,12 @@
-# RailGrid
+<h1 align="center">RailGrid</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-3178C6?style=for-the-badge" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-7C3AED?style=for-the-badge" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Algorand-0F766E?style=for-the-badge" alt="Algorand" />
+  <img src="https://img.shields.io/badge/USDC-334155?style=for-the-badge" alt="USDC" />
+  <img src="https://img.shields.io/badge/x402-A16207?style=for-the-badge" alt="x402" />
+</p>
 
 GPU compute you pay for by the second. Pick a node, get a cost estimate, run your job, and settle in USDC on Algorand. Every payment leaves an on-chain receipt.
 
